@@ -7,5 +7,3 @@
 + Run `make` to compile
 + Run `./run.sh` to run a test demo with graph described in input.txt and max iteration times equal to 100.
 + The graph described in input.txt is the same as the one on Exam 1.
-
-Dake Xiao
